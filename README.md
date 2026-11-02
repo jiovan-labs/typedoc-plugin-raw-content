@@ -1,8 +1,8 @@
-# @unikue/typedoc-plugin-raw-content
+# @jiovan-labs/typedoc-plugin-raw-content
 
-[![NPM version](https://img.shields.io/npm/v/@unikue/typedoc-plugin-raw-content.svg?style=flat)](https://npmjs.org/package/@unikue/typedoc-plugin-raw-content)
+[![NPM version](https://img.shields.io/npm/v/@jiovan-labs/typedoc-plugin-raw-content.svg?style=flat)](https://npmjs.org/package/@jiovan-labs/typedoc-plugin-raw-content)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](LICENSE.txt)
-[![NPM downloads](http://img.shields.io/npm/dm/@unikue/typedoc-plugin-raw-content.svg?style=flat)](https://npmjs.org/package/@unikue/typedoc-plugin-raw-content)
+[![NPM downloads](http://img.shields.io/npm/dm/@jiovan-labs/typedoc-plugin-raw-content.svg?style=flat)](https://npmjs.org/package/@jiovan-labs/typedoc-plugin-raw-content)
 
 🏅 Generates extra raw html contents during typedoc compilation 👍
 
@@ -41,7 +41,7 @@
 You can install this package in your typescript project as follows:
 
 ```bash
-$ npm install @unikue/typedoc-plugin-raw-content --save-dev
+$ npm install @jiovan-labs/typedoc-plugin-raw-content --save-dev
 ```
 
 Enjoy your coding journey with `typedoc-plugin-raw-content` ✌️
@@ -51,7 +51,7 @@ Enjoy your coding journey with `typedoc-plugin-raw-content` ✌️
 - Using in command line
 
 ```bash
-$ typedoc [TARGET] --plugin @unikue/typedoc-plugin-raw-content
+$ typedoc [TARGET] --plugin @jiovan-labs/typedoc-plugin-raw-content
 ```
 
 - Using in `typedoc.json`
@@ -59,7 +59,7 @@ $ typedoc [TARGET] --plugin @unikue/typedoc-plugin-raw-content
 ```json
 {
     "plugin": [
-        "@unikue/typedoc-plugin-raw-content"
+        "@jiovan-labs/typedoc-plugin-raw-content"
     ]
 }
 ```
@@ -93,7 +93,7 @@ Take `rawFooterEnds` option as an example in `typedoc.json`:
 {
     "hideGenerator": true,
     "rawFooterEnds": [
-        "<div style='text-align: center'>Copyright &copy; 2026 Unikue Ltd. All rights reserved</div>"
+        "<div style='text-align: center'>Copyright &copy; 2026 Jiovan Ltd. All rights reserved</div>"
     ]
 }
 ```
@@ -102,7 +102,7 @@ Other options are all similar to the sample above.
 
 ## Document
 
-- GitHub pages: [https://unikueltd.github.io/typedoc-plugin-raw-content](https://unikueltd.github.io/typedoc-plugin-raw-content)
+- GitHub pages: [https://jiovan-labs.github.io/typedoc-plugin-raw-content](https://jiovan-labs.github.io/typedoc-plugin-raw-content)
 
 ## License
 
@@ -110,8 +110,8 @@ This project is under the [MIT License](https://mit-license.org/).
 
 ## Copyright
 
-Beijing Unikue Network Technology Ltd.
+Beijing Jiovan Technology Ltd.
 
 ## Website
 
-- Unikue: [https://unikue.cn](https://unikue.cn)
+- Jiovan: [https://jiovan.com](https://jiovan.com)
